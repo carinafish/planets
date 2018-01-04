@@ -1,0 +1,2 @@
+write here something about anything
+Ctrl-X to exit
